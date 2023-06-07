@@ -1,4 +1,5 @@
 CREATE SCHEMA `softuni_imdb`;
+# Exam Preparation - MySQL - септември 2022
 
 CREATE TABLE `countries` (
 `id` INT Primary Key AUTO_INCREMENT,
