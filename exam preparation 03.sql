@@ -1,4 +1,5 @@
 CREATE SCHEMA `restaurant_db`;
+# exam prep 02.06.23
 
 CREATE TABLE `products` (
 `id` INT Primary Key AUTO_INCREMENT,
